@@ -1,0 +1,33 @@
+{
+  "name"		: "leaflet-bootstrap-marker-mixin",
+  "version"	: "2.1.4",
+  "homepage": "https://github.com/FCOO/leaflet-bootstrap-marker-mixin",
+  "authors": [
+    "Niels Holt http://github.com/NielsHolt"
+  ],
+  "description": "",
+  "main": [
+    "dist/_leaflet-bootstrap-marker-mixin.scss"
+  ],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/FCOO/leaflet-bootstrap-marker-mixin.git"
+	},
+
+	"dependencies": {	},
+
+	"devDependencies": { },
+
+	"license": "MIT",
+
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "moduleType": [
+    "es6"
+  ]
+}
