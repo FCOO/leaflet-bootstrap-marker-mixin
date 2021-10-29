@@ -1,6 +1,6 @@
 {
   "name"		: "leaflet-bootstrap-marker-mixin",
-  "version"	: "2.1.4",
+  "version"	: "1.0.1",
   "homepage": "https://github.com/FCOO/leaflet-bootstrap-marker-mixin",
   "authors": [
     "Niels Holt http://github.com/NielsHolt"
